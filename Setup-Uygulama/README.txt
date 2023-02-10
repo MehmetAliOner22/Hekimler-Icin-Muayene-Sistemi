@@ -1,0 +1,4 @@
+Programı Kullanmak İçin Adımları Takip Edin
+
+1.AileSagligiHekimleriIcinMuayeneBilgiYönetimSistemi(MBYS)/AileSagligiHekimleriIcinMuayeneBilgiYönetimSistemi(MBYS)/publish/MBYS Uygulamasına çift tıklayınız
+2.Artık uygulamayı kullanabilirsiniz. 
